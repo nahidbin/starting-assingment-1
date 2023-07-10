@@ -33,13 +33,50 @@ line-height: 30px;
 
 }
 .btn{
+   
+}
+.bg-primary{
+    background-color: #E55473;
     padding: 12px 20px;
     border-radius: 8px;
     color: white;
     border: none;
     margin-top: 20px;
 }
-.bg-primary{
-    background-color: #E55473;
+.discount-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 
 }
+.discount-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+.discount-headline{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+margin-left: 80px;
+
+}
+.discunt-ditels{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-left: 80px;
+
+}
+.btn{padding: 12px 20px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    margin-left: 300px;
+
+}
+   
+
