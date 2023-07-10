@@ -2,3 +2,44 @@
     margin: 0px;
     padding: 0px;
 }
+.banner-img{
+    width: 635px;
+    height: 800px;
+
+    
+}
+.banner-container{
+    height: 100vh;
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-size: cover;
+}
+.title{
+    color: #272727;
+font-size: 80px;
+font-weight: 800;
+
+}
+.primary{
+    color: #E55473;
+}
+.description{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+
+}
+.btn{
+    padding: 12px 20px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    margin-top: 20px;
+}
+.bg-primary{
+    background-color: #E55473;
+
+}
