@@ -5,6 +5,7 @@
 .banner-img{
     width: 635px;
     height: 800px;
+    padding-bottom: 0px;
 
     
 }
@@ -15,6 +16,7 @@
     justify-content: space-around;
     align-items: center;
     background-size: cover;
+    
 }
 .title{
     color: #272727;
@@ -69,9 +71,6 @@ font-weight: 400;
     align-items: center;
    justify-content: space-around;
 }
-.flower{
-   
-}
 .section-img-1{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
@@ -85,7 +84,36 @@ background: rgba(5, 151, 160, 0.15);
     border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
 }
-
+.support-container{
+    display: flex;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+justify-content: space-around;
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 30px;
+margin-bottom: 30px;
+padding: 40px;
+}
+.cpt1{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-size: 24px;
+font-weight: 600;
+line-height: 35px;
+}
+.cpt2{
+    text-align: center;
+font-size: 24px;
+font-weight: 600;
+line-height: 35px;
+}
+.cpt3{
+    text-align: center;
+font-size: 24px;
+font-weight: 600;
+line-height: 35px;
+}
 
 
 
