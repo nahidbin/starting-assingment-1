@@ -1,0 +1,287 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner-img {
+    width: 635px;
+    height: 800px;
+    padding-bottom: 0px;
+
+
+}
+
+.banner-container {
+    height: 100vh;
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-size: cover;
+
+}
+
+.title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.primary {
+    color: #E55473;
+}
+
+.description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.btn {}
+
+.bg-primary {
+    background-color: #E55473;
+    padding: 12px 20px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    margin-top: 20px;
+}
+
+.featured-container {
+    text-align: center;
+
+}
+
+.featured-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+.feture-details {
+    margin-top: 40px;
+}
+
+.feature-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.three-flowers {
+    display: flex;
+    text-decoration: underline;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.section-img-1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+
+.section-img-2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.section-img-3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.support-container {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 40px;
+}
+
+.cpt1 {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.cpt2 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.cpt3 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+
+
+.discount-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.discount-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.discount-headline {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 80px;
+
+}
+
+.discunt-ditels {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 80px;
+
+}
+
+.btn {
+    padding: 12px 20px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    margin-left: 300px;
+
+}
+
+.social-container {}
+
+.social-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.social-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 10px;
+}
+
+.all-photos {
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+    width: 100;
+    height: 150;
+
+
+}
+
+.input-container {
+    background-size: cover;
+    background-color: cornsilk;
+    text-align: center;
+    justify-content: space-around;
+    width: 1440px;
+    height: 449px;
+    margin-left: 230px;
+
+
+
+}
+
+.input-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+
+    font-weight: 800;
+    padding-top: 80px;
+
+}
+
+.input-discription {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 15px;
+    margin-top: 20px;
+
+}
+
+.search {
+    border-radius: 8px;
+    background: #FFF;
+    width: 400px;
+    px;
+    height: 64px;
+    padding-right: 500;
+    margin-top: 80px;
+}
+
+footer {
+    width: 100%;
+    height: 36vh;
+    background: #111010;
+    color: white;
+    line-height: 1.8em;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.footer-title {
+    font-family: lato;
+    font-size: 48px;
+    font-weght: 800px;
+}
+
+#footer {
+    padding: 80px;
+}
+
+.footer-discription {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+
+}
+
+.copy-line {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
