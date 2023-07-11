@@ -208,16 +208,22 @@
 }
 
 .input-container {
-    background-size: cover;
-    background-color: cornsilk;
-    text-align: center;
+    height: 500px;
+    background-image: url(Rectangle\ 9.png);
+    background-repeat: no-repeat;
     justify-content: space-around;
-    width: 1440px;
-    height: 449px;
-    margin-left: 230px;
+    align-items: center;
+    margin-left: 250px;
+    margin-top: 60px;
+    text-align: center;
 
 
-
+}
+.search{
+    height: 64px;
+    width: 700px;
+    border-radius: 8px;
+    background: #FFF;
 }
 
 .input-title {
@@ -246,9 +252,19 @@
     width: 400px;
     px;
     height: 64px;
-    padding-right: 500;
+    padding-right: 300;
     margin-top: 80px;
+
 }
+.btn-ctn-bg-primary{
+    width: 150px;
+height: 64px;
+border-radius: 8px;
+background: #E55473;
+color: white;
+}
+
+
 
 footer {
     width: 100%;
