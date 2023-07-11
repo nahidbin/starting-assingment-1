@@ -49,15 +49,16 @@ line-height: 30px;
     text-align: center;
 
 }
-.feture-details{
-    margin-top: 20px;
-}
+
 .featured-title{
     color: #272727;
 text-align: center;
 font-size: 40px;
 font-weight: 800;
 margin-top: 20px;
+}
+.feture-details{
+    margin-top: 40px;
 }
 .feature-description{
     color: rgba(39, 39, 39, 0.60);
@@ -184,11 +185,44 @@ margin-top: 10px;
     
 }
 .input-container{
-   
-}
-.input-title{
+   background-size: cover;
+   background-color:cornsilk;
+   text-align: center;
+   justify-content:space-around;
+   width: 1440px;
+height: 449px;
+margin-left: 230px;
+
+
 
 }
+.input-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+
+font-weight: 800;
+padding-top: 80px;
+
+}
+.input-discription{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 200;
+line-height: 15px;
+margin-top: 20px;
+
+}
+.search{
+    border-radius: 8px;
+background: #FFF;
+width: 400px;px;
+height: 64px;
+padding-right: 500;
+margin-top:80px;
+}
+  
 footer{
     width: 100%;
     height: 36vh;
