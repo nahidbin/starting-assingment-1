@@ -254,6 +254,8 @@
     height: 64px;
     padding-right: 300;
     margin-top: 80px;
+    border: 0px;
+    
 
 }
 .btn-ctn-bg-primary{
@@ -262,6 +264,7 @@ height: 64px;
 border-radius: 8px;
 background: #E55473;
 color: white;
+border: 0px;
 }
 
 
